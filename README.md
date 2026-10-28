@@ -99,4 +99,4 @@ mini-crm-atendimento/
 ## Autora
 
 **Anne Monteiro**, estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu.
-[LinkedIn](https://www.linkedin.com/in/seu-perfil) · [GitHub](https://github.com/seu-usuario)
+[LinkedIn](https://www.linkedin.com/in/anne-monteiro-677143315?utm_source=share_via&utm_content=profile&utm_medium=member_ios) · [GitHub](https://github.com/bxntoz)
